@@ -14,3 +14,11 @@ Simulate a basic IT troubleshooting task by using the `ping` command to test con
 
 ## 📸 Screenshots
 See attached images in this repo.
+
+### Ping Results
+
+![Ping Google](ping_google.png)
+![Ping Facebook](ping_facebook.png)
+![Ping 8.8.8.8](ping_8.8.8.8.png)
+![Ping Yahoo](ping_yahoo.png)
+
